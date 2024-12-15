@@ -1,0 +1,6 @@
+version : "3.3"
+services:
+  web :
+    image : prashw23/notesapp2:latest
+    ports :
+        - "8000:8000"
